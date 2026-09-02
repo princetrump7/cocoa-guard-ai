@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Leaflet panes render above Tailwind's z-index layers by default;
+   keep map controls below the app header/nav if one is ever added. */
+.leaflet-container {
+  z-index: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
