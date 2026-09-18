@@ -1,7 +1,7 @@
 # CocoaGuard AI
 
 **On-device AI for cocoa disease diagnosis — built for Ghanaian farmers.**
-Final-year project. Photograph a cocoa leaf or pod, get an instant diagnosis
+Personal project (started Level 200, CS). Photograph a cocoa leaf or pod, get an instant diagnosis
 (anthracnose / black pod / CSSVD / healthy) with confidence score, treatment
 steps, and Twi voice advice — even offline.
 
