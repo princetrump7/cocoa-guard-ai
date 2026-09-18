@@ -5,6 +5,8 @@ Final-year project. Photograph a cocoa leaf or pod, get an instant diagnosis
 (anthracnose / black pod / CSSVD / healthy) with confidence score, treatment
 steps, and Twi voice advice — even offline.
 
+**Live demo:** https://cocoa-guard-fatcnxk86-princetrump7-gmailcoms-projects.vercel.app
+
 ## Problem
 
 Cocoa diseases (black pod, CSSVD, anthracnose) destroy harvests, but extension
